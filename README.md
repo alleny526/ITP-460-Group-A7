@@ -2,3 +2,4 @@
 
 Allen Yang: alleny@usc.edu
 Sydney Augh augh@usc.edu
+Helen Wei helenwei@usc.edu
